@@ -1,0 +1,9 @@
+{
+  "status": "DONE",
+  "summary": "Defined features and target, and planned scaling within pipelines.",
+  "details": {
+    "id_column_dropped": "Id",
+    "target_column": "Species",
+    "scaling": "StandardScaler in sklearn Pipeline"
+  }
+}

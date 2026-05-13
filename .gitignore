@@ -1,0 +1,6 @@
+# Virtual environments
+.venv/
+.venv-1/
+
+# Collaboration folder
+Group_B/ml-ramp-up-week1/run_in_collab/

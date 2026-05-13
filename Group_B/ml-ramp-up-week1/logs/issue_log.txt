@@ -1,0 +1,7 @@
+Issue Log
+Date | Owner | Issue | Status | Notes
+-----|-------|-------|--------|------
+2026-05-13 | William Anthony | Initial effort insufficient for full task scope | Closed | Reworked Colab notebook with deeper analysis and tuning.
+2026-05-13 | William Anthony | Overreliance on team slowed my personal progress | Closed | Completed individual updates and documentation.
+2026-05-13 | William Anthony | Small dataset size (n=150) increases variance across splits | Open | Mitigated with stratified split and cross-validation. Document
+2026-05-13 | William Anthony | Colab notebook outputs not yet executed | Open | Run all cells to generate tables/plots and confirm metrics.

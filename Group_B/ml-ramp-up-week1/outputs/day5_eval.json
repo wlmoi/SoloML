@@ -1,0 +1,4 @@
+{
+  "status": "DONE",
+  "notes": "Evaluated the best model on a holdout split with accuracy, confusion matrix, and classification report."
+}

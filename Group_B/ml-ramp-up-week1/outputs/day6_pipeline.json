@@ -1,0 +1,8 @@
+{
+  "status": "DONE",
+  "summary": "Built a full pipeline with scaling and model selection, and saved an artifact.",
+  "details": {
+    "pipeline_artifact": "models/pipeline.pkl",
+    "notes": "Pipeline artifact saved for reuse."
+  }
+}
