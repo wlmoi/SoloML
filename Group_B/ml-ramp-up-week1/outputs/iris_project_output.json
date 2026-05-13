@@ -1,0 +1,79 @@
+{
+    "dataset": "Iris",
+    "dataset_summary": {
+        "total_samples": 150,
+        "features": [
+            "SepalLengthCm",
+            "SepalWidthCm",
+            "PetalLengthCm",
+            "PetalWidthCm"
+        ],
+        "target_classes": [
+            "Iris-setosa",
+            "Iris-versicolor",
+            "Iris-virginica"
+        ]
+    },
+    "eda_statistics": {
+        "mean_values": {
+            "SepalLengthCm": 5.843333333333334,
+            "SepalWidthCm": 3.0540000000000003,
+            "PetalLengthCm": 3.758666666666666,
+            "PetalWidthCm": 1.1986666666666668
+        },
+        "correlations": {
+            "SepalLengthCm": {
+                "SepalLengthCm": 1.0,
+                "SepalWidthCm": -0.10936924995064931,
+                "PetalLengthCm": 0.8717541573048716,
+                "PetalWidthCm": 0.8179536333691642
+            },
+            "SepalWidthCm": {
+                "SepalLengthCm": -0.10936924995064931,
+                "SepalWidthCm": 1.0,
+                "PetalLengthCm": -0.4205160964011539,
+                "PetalWidthCm": -0.35654408961380507
+            },
+            "PetalLengthCm": {
+                "SepalLengthCm": 0.8717541573048716,
+                "SepalWidthCm": -0.4205160964011539,
+                "PetalLengthCm": 1.0,
+                "PetalWidthCm": 0.9627570970509662
+            },
+            "PetalWidthCm": {
+                "SepalLengthCm": 0.8179536333691642,
+                "SepalWidthCm": -0.35654408961380507,
+                "PetalLengthCm": 0.9627570970509662,
+                "PetalWidthCm": 1.0
+            }
+        }
+    },
+    "feature_transformations": "StandardScaler (Zero mean, Unit variance)",
+    "model_details": {
+        "chosen_model": "knn",
+        "best_hyperparameters": {
+            "model__n_neighbors": 5,
+            "model__weights": "uniform"
+        }
+    },
+    "performance_metrics": {
+        "accuracy": 0.9333333333333333,
+        "confusion_matrix": [
+            [
+                10,
+                0,
+                0
+            ],
+            [
+                0,
+                10,
+                0
+            ],
+            [
+                0,
+                2,
+                8
+            ]
+        ]
+    }
+}

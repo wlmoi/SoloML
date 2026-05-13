@@ -5,6 +5,7 @@
 2. Overdepended on my team. I thought they would add more stuff as in turn I shared my PPT, I should've done the work by my own thoroughly
 3. I dissapointed Mr. Tanveer again, I will give a working one immediately. 
 4. Small dataset size (n=150) can cause higher variance across 
+5. Did 5 Models, Learned syntax using AI, decided to think about testing by input parameters and check results.
 
 ## Learnings
 1. Redo when It's not working, and document even if it feels redundant.
