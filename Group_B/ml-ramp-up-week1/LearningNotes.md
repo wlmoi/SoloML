@@ -11,3 +11,4 @@
 2. Keep listening for feedback. Even if it's making you feel down it's making you grow.
 3. Cross-validation and stratified splits reduce variance risk for small datasets.
 4. Do not do assignments while half-concious. Do it well.
+5. ![alt text](image.png) Watch what is gitignored

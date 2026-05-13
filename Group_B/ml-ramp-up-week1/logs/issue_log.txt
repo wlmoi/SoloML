@@ -2,6 +2,8 @@ Issue Log
 Date | Owner | Issue | Status | Notes
 -----|-------|-------|--------|------
 2026-05-13 | William Anthony | Initial effort insufficient for full task scope | Closed | Reworked Colab notebook with deeper analysis and tuning.
-2026-05-13 | William Anthony | Overreliance on team slowed my personal progress | Closed | Completed individual updates and documentation.
+2026-05-13 | William Anthony | Overreliance on team slowed my personal progress | Closed | Completed individual updates and documentation. It is already said this is INDIVIDUAL WORK so do not listen to others.
 2026-05-13 | William Anthony | Small dataset size (n=150) increases variance across splits | Open | Mitigated with stratified split and cross-validation. Document
+
+2026-05-13 | William Anthony | No Models Updated in the FOLDER. Supposed to put results in there. Not in a Gitignore "run in collab" | Open | 
 2026-05-13 | William Anthony | Colab notebook outputs not yet executed | Open | Run all cells to generate tables/plots and confirm metrics.
